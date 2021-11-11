@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FirstSpeaker</string>
+    <string name="activity_main_tilUserWriting_text">Escribe...</string>
+    <string name="activity_main_bPlay_text">PLAY</string>
+    <string name="activity_main_rbSpanish_text">Español</string>
+    <string name="activity_main_rbEnglish_text">Inglés</string>
+    <string name="activity_main_rbFrench_text">Francés</string>
+    <string name="activity_main_rbItalian_text">Italiano</string>
+    <string name="activity_main_rbGerman_text">Alemán</string>
+    <string name="activity_main_rbPortuguese_text">Portugués</string>
+</resources>
